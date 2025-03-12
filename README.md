@@ -32,7 +32,7 @@ The program allows the user to interact with a file, `fruits.txt`, through the f
 2. Make sure `fruits.txt` is located in the same directory as the script.
 3. Open a terminal and run the script:
    ```bash
-   python fruit_file_manager.py
+   python files.py
    ```
 4. Follow the on-screen prompts to choose the file options.
 
@@ -77,7 +77,3 @@ The program allows the user to interact with a file, `fruits.txt`, through the f
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-This README should help explain the functionality of your script and guide users on how to use it effectively. Let me know if you'd like any additions or changes!
